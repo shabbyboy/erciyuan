@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\ObserveModel\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\ObserveModel\bin\Debug\ObserveModel.exe
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\ObserveModel\bin\Debug\ObserveModel.pdb
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\ObserveModel\obj\Debug\ObserveModel.exe
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\ObserveModel\obj\Debug\ObserveModel.pdb
