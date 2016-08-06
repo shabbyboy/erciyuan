@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\Beverage\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\Beverage\bin\Debug\Beverage.exe
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\Beverage\bin\Debug\Beverage.pdb
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\Beverage\obj\Debug\Beverage.exe
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\Beverage\obj\Debug\Beverage.pdb
