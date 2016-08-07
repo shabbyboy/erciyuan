@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\ConsoleApplication1\bin\Debug\CeLueModel.exe
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\ConsoleApplication1\bin\Debug\CeLueModel.pdb
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\ConsoleApplication1\obj\Debug\CeLueModel.exe
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\ConsoleApplication1\obj\Debug\CeLueModel.pdb
