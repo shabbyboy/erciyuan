@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\FactoryModel\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\FactoryModel\bin\Debug\FactoryModel.exe
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\FactoryModel\bin\Debug\FactoryModel.pdb
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\FactoryModel\obj\Debug\FactoryModel.exe
+D:\My Documents\Visual Studio 2008\Projects\2008first解决方案\FactoryModel\obj\Debug\FactoryModel.pdb
