@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">点名软件</string>
+    <string name="browse">浏览文件</string>
+    <string name="imoport_excel">导入</string>
+    <string name="needchangeclass">需要修改的班号</string>
+    <string name="befname">希望修改后的班号</string>
+    <string name="updateclass">修改班号</string>
+    <string name="delclass">需要删除的班级</string>
+    <string name="deleteclass">删除班级</string>
+</resources>
