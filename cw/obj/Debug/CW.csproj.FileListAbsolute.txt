@@ -1,0 +1,6 @@
+D:\c#\CW\bin\Debug\CW.exe.config
+D:\c#\CW\bin\Debug\CW.exe
+D:\c#\CW\bin\Debug\CW.pdb
+D:\c#\CW\obj\Debug\CW.exe
+D:\c#\CW\obj\Debug\CW.pdb
+D:\c#\CW\obj\Debug\CW.csprojResolveAssemblyReference.cache
